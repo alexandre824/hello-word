@@ -1,2 +1,5 @@
 # hello-word
-1 projeto
+
+Ola a todos!
+
+esse é o meu primeiro projeto em GitHub e espero me sair muito bem
